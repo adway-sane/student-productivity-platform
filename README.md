@@ -2,6 +2,11 @@
 
 A modern, responsive web application designed to help students track grades, manage schedules, and stay organized throughout their academic journey.
 
+## 🌐 Live Site
+
+👉 [Click here to view the app](https://adway-sane.github.io/student-productivity-platform/)
+
+
 ## ✨ Features
 
 - **📊 GPA Tracking**: Comprehensive grade management with automatic GPA calculations
